@@ -1,3 +1,4 @@
+![lionmane](https://github.com/NarayanAkshay11/Lion-Mane-Banking/assets/90465549/38b11d29-3e36-4254-a9e5-e63d08ea353a)
 # Lion-Mane-Banking 
 This is a Mock Net Banking System created as a CBSE Grade 12 Project by B. Akshay Narayanan. 
 The application is built using Python and MySQL. 

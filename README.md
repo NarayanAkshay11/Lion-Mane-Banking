@@ -4,6 +4,8 @@ The application is built using Python and MySQL.
 The main aim of this project was to showcase the skills and knowledge learnt
 from the CBSE syllabus along with some extra knowledge to bridge the gap between the backend and the front end.
 
+Link : https://github.com/NarayanAkshay11/Lion-Mane-Banking
+
 # Introduction
 Our busy lives make every day a race against the clock, so we look for time-saving
 opportunities everywhere. Online banking has reduced the frequency of trips to the bank
